@@ -4,7 +4,7 @@
 DB2CSV -tables tableName,tableName,...
        e.g. DB2CSV -tables foo,bar
 
- or DB2CSV -sql 'sql string'");
+ or DB2CSV -sql 'sql string'
        e.g. DB2CSV -sql 'SELECT * FROM foo'
 
  or DB2CSV -sqlFile path/to/sqlfile
